@@ -1,0 +1,12 @@
+.nav-link {
+    flex-grow: 1;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+.active {
+    background-color: #ccc;
+}
